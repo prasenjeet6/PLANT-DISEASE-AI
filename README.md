@@ -2,9 +2,19 @@
 
 ## Description
 
-This project detects plant leaf diseases using a MobileNetV2 deep learning model trained on the PlantVillage dataset.
+This project uses the PlantVillage Color Dataset for plant disease classification.
 
-Users can upload a plant leaf image, and the application predicts the disease along with confidence, description, treatment, and prevention measures.
+The dataset is provided separately through Google Drive and is not included in this GitHub repository.
+
+### Download Dataset
+
+[Download PlantVillage_Color.zip from Google Drive](https://drive.google.com/file/d/1Vu5WeeqoCH_ACFfSSd0bTpe1YT0Ktxgb/view?usp=sharing)
+
+### Dataset Setup
+
+1. Download `PlantVillage_Color.zip` from the link above.
+2. Extract the ZIP file.
+3. Place the extracted `color` folder inside the `dataset/` directory.
 
 ## Technologies Used
 
