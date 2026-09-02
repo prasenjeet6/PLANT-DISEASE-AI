@@ -1,0 +1,7 @@
+ROC-AUC RESULTS
+==================================================
+
+MobileNetV2 AUC: 0.9983
+EfficientNetV2B0 AUC: 1.0000
+50:50 Hybrid AUC: 0.9999
+PSO Optimized Hybrid AUC: 0.9999

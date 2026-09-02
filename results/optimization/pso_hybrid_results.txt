@@ -1,0 +1,20 @@
+PSO OPTIMIZED HYBRID MODEL RESULTS
+=================================
+
+Validation Images : 10849
+
+Best MobileNetV2 Weight : 0.3745
+Best EfficientNetV2B0 Weight : 0.6255
+
+Accuracy : 0.9867
+Precision: 0.9868
+Recall   : 0.9867
+F1 Score : 0.9866
+
+50:50 HYBRID RESULTS
+====================
+
+Accuracy : 0.9829
+Precision: 0.9833
+Recall   : 0.9829
+F1 Score : 0.9829

@@ -1,0 +1,27 @@
+MODEL PERFORMANCE COMPARISON
+============================
+
+MobileNetV2
+Accuracy : 0.9751
+Precision: 0.9751
+Recall   : 0.9751
+F1 Score : 0.9751
+
+EfficientNetV2B0
+Accuracy : 0.9949
+Precision: 0.9949
+Recall   : 0.9949
+F1 Score : 0.9949
+
+Hybrid 50:50
+Accuracy : 0.9950
+Precision: 0.9950
+Recall   : 0.9950
+F1 Score : 0.9950
+
+Optimized Hybrid 40:60
+Accuracy : 0.9957
+Precision: 0.9957
+Recall   : 0.9957
+F1 Score : 0.9957
+

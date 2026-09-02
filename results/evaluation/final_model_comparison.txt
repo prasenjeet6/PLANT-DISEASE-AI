@@ -1,0 +1,14 @@
+FINAL MODEL COMPARISON
+======================================================================
+
+MobileNetV2 Accuracy: 88.84%
+MobileNetV2 Precision: 90.21%
+MobileNetV2 Recall: 88.84%
+MobileNetV2 F1 Score: 88.58%
+
+EfficientNetV2B0 Accuracy: 98.46%
+EfficientNetV2B0 Precision: 98.47%
+EfficientNetV2B0 Recall: 98.46%
+EfficientNetV2B0 F1 Score: 98.45%
+
+Selected Model: EfficientNetV2B0

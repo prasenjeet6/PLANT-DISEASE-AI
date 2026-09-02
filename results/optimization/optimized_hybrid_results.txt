@@ -1,0 +1,24 @@
+OPTIMIZED HYBRID MODEL RESULTS
+==============================
+
+Best MobileNetV2 Weight : 0.4
+Best EfficientNetV2B0 Weight : 0.6
+
+Accuracy : 0.9957
+Precision: 0.9957
+Recall   : 0.9957
+F1 Score : 0.9957
+
+ALL WEIGHT COMBINATIONS
+=======================
+MobileNetV2=0.0, EfficientNetV2B0=1.0, Accuracy=0.9949, Precision=0.9949, Recall=0.9949, F1=0.9949
+MobileNetV2=0.1, EfficientNetV2B0=0.9, Accuracy=0.9952, Precision=0.9952, Recall=0.9952, F1=0.9951
+MobileNetV2=0.2, EfficientNetV2B0=0.8, Accuracy=0.9954, Precision=0.9954, Recall=0.9954, F1=0.9953
+MobileNetV2=0.3, EfficientNetV2B0=0.7, Accuracy=0.9956, Precision=0.9957, Recall=0.9956, F1=0.9956
+MobileNetV2=0.4, EfficientNetV2B0=0.6, Accuracy=0.9957, Precision=0.9957, Recall=0.9957, F1=0.9957
+MobileNetV2=0.5, EfficientNetV2B0=0.5, Accuracy=0.9950, Precision=0.9950, Recall=0.9950, F1=0.9950
+MobileNetV2=0.6, EfficientNetV2B0=0.4, Accuracy=0.9899, Precision=0.9900, Recall=0.9899, F1=0.9899
+MobileNetV2=0.7, EfficientNetV2B0=0.3, Accuracy=0.9853, Precision=0.9854, Recall=0.9853, F1=0.9852
+MobileNetV2=0.8, EfficientNetV2B0=0.2, Accuracy=0.9815, Precision=0.9816, Recall=0.9815, F1=0.9813
+MobileNetV2=0.9, EfficientNetV2B0=0.1, Accuracy=0.9783, Precision=0.9784, Recall=0.9783, F1=0.9781
+MobileNetV2=1.0, EfficientNetV2B0=0.0, Accuracy=0.9751, Precision=0.9753, Recall=0.9751, F1=0.9749
