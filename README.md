@@ -45,7 +45,9 @@ streamlit run app.py
 
 ## Dataset
 
-The complete Plant Disease Dataset is provided separately because the dataset is approximately 8 GB and is not stored directly in this GitHub repository.
+This project uses the PlantVillage Color Dataset for plant disease classification.
+
+The dataset is provided separately through Google Drive and is not included in this GitHub repository.
 
 ### Download Dataset
 
@@ -53,13 +55,16 @@ The complete Plant Disease Dataset is provided separately because the dataset is
 
 ### Dataset Setup
 
-After downloading the dataset, place/extract it into the dataset folder of this project.
+1. Download `PlantVillage_Color.zip` from the link above.
+2. Extract the ZIP file.
+3. Place the extracted `color` folder inside the `dataset/` directory.
 
-Project structure:
+The expected structure is:
 
     PLANT-DISEASE-AI/
-    +-- dataset/
-    +-- models/
-    +-- notebooks/
-    +-- results/
-    +-- src/
+    ├── dataset/
+    │   └── color/
+    ├── models/
+    ├── notebooks/
+    ├── results/
+    └── src/
