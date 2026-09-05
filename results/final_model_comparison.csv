@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score
+MobileNetV2,0.9751,0.9753,0.9751,0.9749
+EfficientNetV2B0,0.9949,0.9949,0.9949,0.9949
+ResNet50,0.8092,0.8244,0.8092,0.8035
+ViT,0.7931,0.7891,0.7931,0.7843
+Swin Transformer,0.7786,0.7708,0.7786,0.7648

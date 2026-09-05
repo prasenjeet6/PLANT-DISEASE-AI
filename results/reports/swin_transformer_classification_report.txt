@@ -1,0 +1,51 @@
+                                                    precision    recall  f1-score   support
+
+                                Apple___Apple_scab     0.7045    0.4921    0.5794       126
+                                 Apple___Black_rot     0.7755    0.3065    0.4393       124
+                          Apple___Cedar_apple_rust     0.2500    0.0182    0.0339        55
+                                   Apple___healthy     0.7563    0.8207    0.7872       329
+                               Blueberry___healthy     0.8083    0.9133    0.8576       300
+          Cherry_(including_sour)___Powdery_mildew     0.6514    0.6762    0.6636       210
+                 Cherry_(including_sour)___healthy     0.6697    0.8588    0.7526       170
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot     0.6341    0.2549    0.3636       102
+                       Corn_(maize)___Common_rust_     0.9660    0.9538    0.9598       238
+               Corn_(maize)___Northern_Leaf_Blight     0.6639    0.8020    0.7264       197
+                            Corn_(maize)___healthy     0.9106    0.9655    0.9372       232
+                                 Grape___Black_rot     0.6345    0.5297    0.5774       236
+                      Grape___Esca_(Black_Measles)     0.8257    0.7210    0.7698       276
+        Grape___Leaf_blight_(Isariopsis_Leaf_Spot)     0.7773    0.8279    0.8018       215
+                                   Grape___healthy     0.7273    0.2857    0.4103        84
+          Orange___Haunglongbing_(Citrus_greening)     0.8734    0.9900    0.9281      1101
+                            Peach___Bacterial_spot     0.7912    0.6688    0.7249       459
+                                   Peach___healthy     0.7625    0.8472    0.8026        72
+                     Pepper,_bell___Bacterial_spot     0.6748    0.4171    0.5155       199
+                            Pepper,_bell___healthy     0.7264    0.7288    0.7276       295
+                             Potato___Early_blight     0.8409    0.9250    0.8810       200
+                              Potato___Late_blight     0.6692    0.4350    0.5273       200
+                                  Potato___healthy     1.0000    0.0333    0.0645        30
+                               Raspberry___healthy     0.7105    0.3649    0.4821        74
+                                 Soybean___healthy     0.8550    0.9440    0.8973      1018
+                           Squash___Powdery_mildew     0.8653    0.9101    0.8871       367
+                          Strawberry___Leaf_scorch     0.9521    0.8100    0.8753       221
+                              Strawberry___healthy     0.8644    0.5604    0.6800        91
+                           Tomato___Bacterial_spot     0.6765    0.8118    0.7380       425
+                             Tomato___Early_blight     0.5360    0.3350    0.4123       200
+                              Tomato___Late_blight     0.5659    0.6194    0.5915       381
+                                Tomato___Leaf_Mold     0.5238    0.4632    0.4916       190
+                       Tomato___Septoria_leaf_spot     0.6590    0.4859    0.5593       354
+     Tomato___Spider_mites Two-spotted_spider_mite     0.7124    0.8060    0.7563       335
+                              Tomato___Target_Spot     0.7075    0.7429    0.7247       280
+            Tomato___Tomato_Yellow_Leaf_Curl_Virus     0.8035    0.9468    0.8693      1071
+                      Tomato___Tomato_mosaic_virus     0.7791    0.9054    0.8375        74
+                                  Tomato___healthy     0.9159    0.9591    0.9370       318
+
+                                          accuracy                         0.7786     10849
+                                         macro avg     0.7426    0.6615    0.6729     10849
+                                      weighted avg     0.7708    0.7786    0.7648     10849
+
+Swin Transformer Validation Loss: 0.7127318382263184
+Swin Transformer Validation Accuracy: 0.7785971164703369
+Swin Transformer Weighted Precision: 0.7707898196154527
+Swin Transformer Weighted Recall: 0.7785971057240298
+Swin Transformer Weighted F1: 0.7648419972516349
+Swin Transformer Weighted ROC-AUC: 0.9896679799707248
